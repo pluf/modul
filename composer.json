@@ -1,0 +1,34 @@
+{
+	"name" : "pluf/modul",
+	"description" : "Modul manager of Pluf.",
+	"type" : "project",
+	"license" : "MIT",
+	"authors" : [{
+			"name" : "Mostafa Barmshory",
+			"email" : "mostafa.barmshory@dpq.co.ir",
+			"homepage" : "http://dpq.co.ir",
+			"role" : "developer"
+		}
+	],
+	"minimum-stability" : "stable",
+	"prefer-stable" : true,
+	"homepage" : "https://github.com/pluf/demo",
+	"support" : {
+		"email" : "info@pluf.ir",
+		"issues" : "https://github.com/pluf/modul/issues",
+		"wiki" : "https://github.com/pluf/modul/wiki",
+		"source" : "https://github.com/pluf/modul"
+	},
+	"keywords" : [
+		"pluf",
+		"site"
+	],
+	"require" : {
+		"kabachello/composerapi" : "0.3.1",
+		"pluf/core" : ">=2.0.4",
+		"pluf/todo": "*"
+	},
+	"require-dev" : {
+		"phpunit/phpunit" : ">=5.7.14"
+	}
+}

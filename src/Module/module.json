@@ -1,0 +1,12 @@
+{
+	"name": "Modul",
+	"title": "Pluf modul manager",
+	"description": "A modul manager to manage installed modules",
+	"version": "0.1.0",
+	"home": "https://github.com/pluf/modul",
+	"model": [
+		"Modul_Description"
+	],
+	"permisson": [],
+	"monitor": []
+}

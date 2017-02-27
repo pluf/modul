@@ -1,6 +1,6 @@
 {
-	"name" : "pluf/modul",
-	"description" : "Modul manager of Pluf.",
+	"name" : "pluf/module",
+	"description" : "Module manager of Pluf.",
 	"type" : "project",
 	"license" : "MIT",
 	"authors" : [{
@@ -26,7 +26,7 @@
 	"require" : {
 		"kabachello/composerapi" : "0.3.1",
 		"pluf/core" : ">=2.0.4",
-		"pluf/todo": "*"
+		"pluf/todo" : "^0.1.1"
 	},
 	"require-dev" : {
 		"phpunit/phpunit" : ">=5.7.14"
